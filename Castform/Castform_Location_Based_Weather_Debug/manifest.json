@@ -1,0 +1,23 @@
+{
+  "id": "castform_location_based_weather_debug",
+  "name": "Castform: Location Based Weather Debug",
+  "version": "1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QOL",
+  "games": [
+    "emerald"
+  ],
+  "game_version": ">=0.2.64 <2.0.0",
+  "priority": 100,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "permissions": [
+    "network",
+    "engine_internals"
+  ],
+  "description": "Location based weather with an overlay.",
+  "author": "Logie"
+}
