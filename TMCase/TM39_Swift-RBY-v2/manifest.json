@@ -1,0 +1,26 @@
+{
+  "id": "tm39_swift_v2",
+  "name": "Gen 1 Swift V2",
+  "version": "2.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QOL",
+  "games": [
+    "red",
+    "blue",
+    "yellow"
+  ],
+  "priority": 304,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [
+    "tm39_swift"
+  ],
+  "permissions": [
+    "engine_internals"
+  ],
+  "description": "Replaces Oak's intro with Mom giving a quick start to the game.",
+  "author": "Logie",
+  "game_version": ">=0.0.0"
+}

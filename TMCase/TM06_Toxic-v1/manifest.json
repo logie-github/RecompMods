@@ -1,0 +1,20 @@
+{
+  "id": "tm06_toxic",
+  "name": "TM06 Toxic",
+  "version": "1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "UI",
+  "games": [
+    "gen1"
+  ],
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 271,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "permissions": [],
+  "description": "Changes the default rival name list to ASSHAT, BLUE, and GARY.",
+  "author": "Logie"
+}

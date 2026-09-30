@@ -1,0 +1,23 @@
+{
+  "id": "tm35_metronome",
+  "name": "TM35 Metronome",
+  "version": "2.61",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "UI",
+  "games": [
+    "gen1",
+    "gen2"
+  ],
+  "game_version": ">=0.1.38 <2.0.0",
+  "priority": 300,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "permissions": [
+    "engine_internals"
+  ],
+  "description": "Adds simple swipe controls for directional input and common buttons.",
+  "author": "Logie"
+}

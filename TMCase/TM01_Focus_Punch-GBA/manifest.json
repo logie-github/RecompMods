@@ -1,0 +1,22 @@
+{
+  "id": "tm01_focus_punch",
+  "name": "TM01 Focus Punch",
+  "version": "3.64",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QOL",
+  "games": [
+    "firered"
+  ],
+  "game_version": ">=0.2.64 <2.0.0",
+  "priority": 303,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "permissions": [
+    "engine_internals"
+  ],
+  "description": "Skips the controls guide and intro pages.",
+  "author": "Logie"
+}

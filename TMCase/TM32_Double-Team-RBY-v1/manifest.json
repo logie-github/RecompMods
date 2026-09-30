@@ -1,0 +1,24 @@
+{
+  "id": "tm32_double_team",
+  "name": "TM32 Double Team",
+  "version": "1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QOL",
+  "games": [
+    "red",
+    "blue",
+    "yellow"
+  ],
+  "game_version": ">=0.0.0",
+  "priority": 304,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "permissions": [
+    "engine_internals"
+  ],
+  "description": "Doubles Bill's PC storage from 12 boxes to 24, and names itself in the save so companion tools can tell a 24-box save from a broken one.",
+  "author": "Logie"
+}
